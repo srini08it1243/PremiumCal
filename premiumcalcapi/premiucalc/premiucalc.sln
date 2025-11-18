@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36518.9
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "premiucalc", "premiucalc\premiucalc.csproj", "{424A15E1-D31A-469F-8E95-5BA25463FA23}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{424A15E1-D31A-469F-8E95-5BA25463FA23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{424A15E1-D31A-469F-8E95-5BA25463FA23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{424A15E1-D31A-469F-8E95-5BA25463FA23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{424A15E1-D31A-469F-8E95-5BA25463FA23}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2B12794A-11B0-45C4-96C5-D8FF0C096AD1}
+	EndGlobalSection
+EndGlobal

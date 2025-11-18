@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "PremiumController",
+    "Method": "CalculatePremium",
+    "RelativePath": "api/premium/calculate",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "PremiumRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PremiumController",
+    "Method": "GetOccupations",
+    "RelativePath": "api/premium/occupations",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
